@@ -33,6 +33,7 @@ The dataset includes the following variables:
 * [Click here to view the raw data SQL script](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/01_raw_data.sql)— Original unprocessed data
 * [Click here to view the data cleaning SQL script](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/02_data_cleaning.sql) — SQL queries used for cleaning
 * [click here to view the cleaned data SQL](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/cleaned_data.sql)— Final cleaned version of the dataset
+* [click here to view the cleaned data in .csv](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/03_cleaned_data.csv)
 * README.md — Overview and explanation of the cleaning process
 
 # ✅ Ideal for: 
