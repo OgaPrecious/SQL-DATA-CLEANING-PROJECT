@@ -30,8 +30,8 @@ The dataset includes the following variables:
 * Well-documented workflow with comments in each query
 
 # 📂 Repository Structure
-* https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/01_raw_data.sql— Original unprocessed data
-* scripts/cleaning.sql — SQL queries used for cleaning
+* [Click here to view the data cleaning SQL script]()— Original unprocessed data
+* [Click here to view the data cleaning SQL script](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/02_data_cleaning.sql) — SQL queries used for cleaning
 * output/cleaned_data.sql — Final cleaned version of the dataset
 * README.md — Overview and explanation of the cleaning process
 
