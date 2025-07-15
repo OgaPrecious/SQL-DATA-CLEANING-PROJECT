@@ -36,7 +36,7 @@ The dataset includes the following variables:
 * [click to view the cleaned data SQL](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/03_cleaned_data.sql)— Final cleaned version of the dataset
 * [click here to view the cleaned data in .csv](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/04_cleaned_data.csv)--Final cleaned versionof the dataset in .csv
 * [Click here to view the data cleaning SQL script](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/02_data_cleaning.sql) — SQL queries used for cleaning
-* [click here to view README.md](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT#) — Overview and explanation of the cleaning process
+* [click here to view README.md](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/05_data_cleaning_script.sql) — Overview and explanation of the cleaning process
 
 # ✅ Ideal for: 
 Data analysts looking to practice real-world SQL data cleaning techniques on messy data.
