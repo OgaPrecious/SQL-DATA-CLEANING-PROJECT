@@ -31,7 +31,7 @@ The dataset includes the following variables:
 * Well-documented workflow with comments in each query
 
 # 📂 Repository Structure
-* [Click here to view the raw data SQL script]()— Original unprocessed data in dump form
+* [Click here to view the raw data SQL script](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/01_raw_data.sql)— Original unprocessed data in dump form
 * [click here to view the raw data in .csv](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/04_raw_data.csv)--Original unprocessed data in .csv
 * [click to view the cleaned data SQL](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/cleaned_data.sql)— Final cleaned version of the dataset
 * [click here to view the cleaned data in .csv](https://github.com/OgaPrecious/SQL-DATA-CLEANING-PROJECT/blob/main/03_cleaned_data.csv)--Final cleaned versionof the dataset in .csv
